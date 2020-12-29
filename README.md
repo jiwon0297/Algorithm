@@ -1,4 +1,6 @@
 # Algorithm Study : C++
+# 블로그
+- https://blog.naver.com/PostList.nhn?blogId=jiwon0297&from=postList&categoryNo=74
 # 강의명
 - 인프런, it 취업을 위한 알고리즘 문제풀이, 코딩테스트 준비
 - 강의링크 : https://inf.run/hdie
